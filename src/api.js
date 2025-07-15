@@ -6,7 +6,7 @@ const cors = require('cors');
 const os = require('os');
 
 const app = express();
-const UPLOADS_DIR = path.join(os.homedir(), 'electron-uploads');
+const UPLOADS_DIR = path.join(os.homedir(), 'electron-uploads'); //change Folder Name As U need
 
 // Ensure uploads directory exists
 fs.ensureDirSync(UPLOADS_DIR);
