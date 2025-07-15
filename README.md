@@ -138,4 +138,4 @@ Happy Coding! 🎨🚀
 
 ## 🖼 Preview
 
-![Preview](https://imgur.com/qvpZLAv)
+![Preview](https://i.imgur.com/qvpZLAv.png)
