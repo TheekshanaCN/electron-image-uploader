@@ -45,7 +45,7 @@ _Generates executables for Windows, macOS, and Linux_
 ## 📂 Project Structure
 
 ```
-electron-express-uploader/
+electron-image-uploader/
 ├── src/
 │   ├── main.js           # Electron main process
 │   ├── api.js            # Express backend
